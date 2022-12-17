@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Kaiymu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kaiymu/Kaiymu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Kaiymu, French game developer working at Ubisoft
+- 👀 I’m interested in learning about Unity and general game programming skills. I'm passionate about documentation and sharing new tricks, so feel free to reach out
+- 🌱 I’m currently learning UIToolki and improving my math. 
