@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Kaiymu, French game developer working at Ubisoft
+- 👋 Hi, I’m @Kaiymu, French game developer working at Gameloft, previously at Ubisoft
 - 👀 I’m interested in learning about Unity, Unreal and general game programming skills. I'm passionate about documentation and sharing new tricks, so feel free to reach out
-- 🌱 I'm currently preparing to give some 3D lesson and learning more about mathematics & gameplay
+- 🌱 I've given course at the University on how to create cultural apps using Unity & AR. 
